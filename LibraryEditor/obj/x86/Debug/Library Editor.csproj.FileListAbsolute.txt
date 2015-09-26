@@ -1,0 +1,9 @@
+E:\最新C#研发\Library\LibraryEditor.exe.config
+E:\最新C#研发\Library\LibraryEditor.exe
+E:\最新C#研发\Library\LibraryEditor.pdb
+E:\最新C#研发\mir2-test_server\LibraryEditor\obj\x86\Debug\Library Editor.csprojResolveAssemblyReference.cache
+E:\最新C#研发\mir2-test_server\LibraryEditor\obj\x86\Debug\LibraryEditor.LMain.resources
+E:\最新C#研发\mir2-test_server\LibraryEditor\obj\x86\Debug\Library_Editor.Properties.Resources.resources
+E:\最新C#研发\mir2-test_server\LibraryEditor\obj\x86\Debug\Library Editor.csproj.GenerateResource.Cache
+E:\最新C#研发\mir2-test_server\LibraryEditor\obj\x86\Debug\LibraryEditor.exe
+E:\最新C#研发\mir2-test_server\LibraryEditor\obj\x86\Debug\LibraryEditor.pdb

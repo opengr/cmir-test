@@ -1,0 +1,11 @@
+E:\最新C#研发\Client\Client.exe.config
+E:\最新C#研发\Client\Client.exe
+E:\最新C#研发\Client\Client.pdb
+E:\最新C#研发\mir2-test_server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\最新C#研发\mir2-test_server\Client\obj\Debug\Launcher.AMain.resources
+E:\最新C#研发\mir2-test_server\Client\obj\Debug\Client.CMain.resources
+E:\最新C#研发\mir2-test_server\Client\obj\Debug\Launcher.Config.resources
+E:\最新C#研发\mir2-test_server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\最新C#研发\mir2-test_server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\最新C#研发\mir2-test_server\Client\obj\Debug\Client.exe
+E:\最新C#研发\mir2-test_server\Client\obj\Debug\Client.pdb
